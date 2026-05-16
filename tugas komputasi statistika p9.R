@@ -1,0 +1,3 @@
+data_inflasi <- c(0.14, 0.18, 0.06, 0.08, 0.41, -0.27, -0.04, 0.08, -0.06, 0.08)
+mean_val <- mean(data_inflasi)
+print(mean_val)
